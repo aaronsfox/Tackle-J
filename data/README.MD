@@ -1,0 +1,1 @@
+The data in this folder comes from the [Big Data Bowl 2024 competition](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data) dataset. Note that the weekly tracking data is missing from this folder, as it's too large to push to a standard GitHup repo. Visit the above link to download the tracking data to this folder before running the associated code.
